@@ -1,162 +1,186 @@
-<h1>👋 Hi, I'm Aman Sapkota!</h1><h3>🚀 <strong>Full-Stack Developer | 🌟 Tech Innovator | 📚 Lifelong Learner</strong></h3><h1>
+# Aman Sapkota  
+### **Senior Full-Stack Developer | Open-Source Leader | Innovator in Scalable Systems**
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&amp;size=24&amp;duration=3500&amp;pause=800&amp;color=00C4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+scalable+web+apps+with+React+%26+Node.js;Contributing+to+open-source+%26+tech+communities;Mastering+AI%2C+Cloud%2C+System+Design+%26+Web3;Creating+impactful+user+experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=1E90FF&center=true&vCenter=true&width=750&lines=Architecting+robust+web+solutions+with+React+%26+Node.js;Leading+open-source+initiatives+and+mentorship;Advancing+AI%2C+Cloud%2C+System+Design+%26+Web3;Delivering+exceptional+user+experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-sapkota-75165a24a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="mailto:amansapkota14@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-  <a href="https://github.com/dev-amansapkota"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-  <a href="https://dev-amansapkota-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
-  <a href="https://dev.to/amansapkota"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aman-sapkota-75165a24a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amansapkota14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/dev-amansapkota"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://dev-amansapkota-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dev.to/amansapkota"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
 </p>
 
-<hr />
-</h1><h2>🌟 <strong>About Me</strong></h2><h1>
-<p>I'm a passionate <strong>Full-Stack Developer</strong> with a flair for building scalable, intuitive, and impactful web applications. I approach problem-solving like a detective 🔍, relish debugging challenges, and am driven to create innovative solutions that push boundaries. My goal is to blend creativity with technology to shape the future of the web while mentoring and contributing to the global tech community.</p>
-<ul>
-<li>🔭 <strong>Currently Working On</strong>: Cutting-edge full-stack projects using <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>AWS Amplify</strong>.  </li>
-<li>🌱 <strong>Learning</strong>: <strong>System Design</strong>, <strong>Kubernetes</strong>, <strong>AI-driven development</strong>, and <strong>Web3 technologies</strong>.  </li>
-<li>👯 <strong>Open to Collaborate</strong>: On open-source initiatives, startup ventures, or hackathons tackling real-world problems.  </li>
-<li>💬 <strong>Ask Me About</strong>: JavaScript, React, Node.js, DevOps pipelines, UI/UX design, or debugging strategies.  </li>
-<li>⚡ <strong>Fun Fact</strong>: I find debugging more thrilling than writing code – it’s like unraveling a mystery! 🧩</li>
-</ul>
-<hr />
-</h1><h2>🛠️ <strong>Tech Stack</strong></h2><h3><strong>Languages</strong></h3><h1>
+---
 
+## About Me
+
+As a **Senior Full-Stack Developer**, I specialize in designing and deploying scalable, user-centric web applications that drive impact. With a detective-like approach to problem-solving 🔍, I excel at resolving complex technical challenges and delivering clean, maintainable code. My mission is to innovate at the intersection of technology and creativity, mentor emerging talent, and contribute to open-source projects that shape the future of software development.
+
+- 🔭 **Current Focus**: Building enterprise-grade solutions with **Next.js**, **TypeScript**, and **AWS Serverless**.  
+- 🌱 **Exploring**: Advanced **System Design**, **Kubernetes**, **AI-driven automation**, and **Web3 protocols**.  
+- 👯 **Collaboration Opportunities**: Open-source projects, innovative startups, or global hackathons.  
+- 💬 **Expertise Areas**: JavaScript ecosystems, microservices, DevOps pipelines, UI/UX, and debugging strategies.  
+- ⚡ **Fun Fact**: Debugging is my superpower – it’s like solving a high-stakes mystery! 🧩  
+
+---
+
+## Tech Stack
+
+### Languages
 <p>
-  <img alt="Languages" src="https://skillicons.dev/icons?i=js,ts,python,html,css,go" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,go,rust,elixir" alt="Languages" />
 </p>
 
-</h1><h3><strong>Frameworks &amp; Libraries</strong></h3><h1>
+### Frameworks & Libraries
 <p>
-  <img alt="Frameworks" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,graphql,svelte" alt="Frameworks" />
 </p>
 
-</h1><h3><strong>Tools &amp; Platforms</strong></h3><h1>
+### Tools & Platforms
 <p>
-  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,figma,linux,jenkins,terraform" alt="Tools" />
 </p>
 
-</h1><h3><strong>Databases &amp; Others</strong></h3><h1>
+### Databases & Others
 <p>
-  <img alt="Databases" src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,graphql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,redis,dynamodb,cassandra" alt="Databases" />
 </p>
 
-<hr />
-</h1><h2>📊 <strong>Skill Progress</strong></h2><h1>
+---
+
+## Skill Mastery
+
 <p align="center">
-  <img alt="JavaScript Progress" src="https://progress-bar.dev/95/?title=JavaScript&amp;width=220&amp;color=00C4FF" />
-  <img alt="React Progress" src="https://progress-bar.dev/90/?title=React%20+%20Next.js&amp;width=220&amp;color=FF5733" />
-  <img alt="Node.js Progress" src="https://progress-bar.dev/85/?title=Node.js%20+%20Express&amp;width=220&amp;color=00FF7F" />
-  <img alt="TypeScript Progress" src="https://progress-bar.dev/75/?title=TypeScript&amp;width=220&amp;color=FFD700" />
-  <img alt="AWS Progress" src="https://progress-bar.dev/70/?title=AWS%20+%20Docker&amp;width=220&amp;color=FF69B4" />
+  <b>JavaScript: 92%</b><br>
+  <img src="https://img.shields.io/badge/92%25-1E90FF?style=flat-square&labelColor=1E90FF&color=1E90FF&logo=javascript" alt="JavaScript Mastery" /><br><br>
+  <b>React + Next.js: 88%</b><br>
+  <img src="https://img.shields.io/badge/88%25-FF5733?style=flat-square&labelColor=FF5733&color=FF5733&logo=react" alt="React Mastery" /><br><br>
+  <b>Node.js + Express: 85%</b><br>
+  <img src="https://img.shields.io/badge/85%25-00FF7F?style=flat-square&labelColor=00FF7F&color=00FF7F&logo=node.js" alt="Node.js Mastery" /><br><br>
+  <b>TypeScript: 75%</b><br>
+  <img src="https://img.shields.io/badge/75%25-FFD700?style=flat-square&labelColor=FFD700&color=FFD700&logo=typescript" alt="TypeScript Mastery" /><br><br>
+  <b>AWS + Docker: 70%</b><br>
+  <img src="https://img.shields.io/badge/70%25-FF69B4?style=flat-square&labelColor=FF69B4&color=FF69B4&logo=amazonaws" alt="AWS Mastery" />
 </p>
 
-<hr />
-</h1><h2>📈 <strong>GitHub Stats</strong></h2><h1>
+---
+
+## GitHub Insights
+
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dev-amansapkota&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;count_private=true" width="47%" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amansapkota&amp;theme=midnight-purple&amp;hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-amansapkota&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs,issues" width="47%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amansapkota&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amansapkota&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amansapkota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amansapkota&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<hr />
-</h1><h2>🏆 <strong>Achievements</strong></h2><h1>
+---
+
+## Professional Journey
+
+### **Lead Full-Stack Developer** @ [TechCorp Solutions] (2023–Present)  
+- Architected microservices-based platforms using **Next.js**, **Node.js**, and **AWS ECS**, improving scalability by 40%.  
+- Led a team of 5 developers, optimizing CI/CD pipelines with **GitHub Actions** and **Docker** for seamless deployments.  
+
+### **Full-Stack Developer** @ [Innovate Labs] (2021–2023)  
+- Developed a high-traffic e-commerce platform with **React**, **GraphQL**, and **PostgreSQL**, reducing load times by 30%.  
+- Implemented automated testing with **Jest** and **Cypress**, achieving 95% test coverage.  
+
+### **Open-Source Contributor** @ Various Projects (2019–Present)  
+- Contributed over 50 pull requests to projects like **React Query** and **TypeScript**, enhancing functionality and documentation.  
+
+---
+
+## Certifications
+
 <p align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=dev-amansapkota&amp;theme=onedark&amp;no-frame=true&amp;margin-w=15&amp;column=6" />
+  <a href="https://www.credly.com/badges/your-aws-badge"><img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws" alt="AWS Certified Solutions Architect" /></a>
+  <a href="https://www.scrum.org/certificates/your-psm-certificate"><img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20I-007FFF?style=flat-square&logo=scrumalliance" alt="PSM I" /></a>
+  <a href="https://www.credly.com/badges/your-gcp-badge"><img src="https://img.shields.io/badge/Google%20Cloud%20Professional%20Cloud%20Architect-4285F4?style=flat-square&logo=googlecloud" alt="Google Cloud Professional" /></a>
 </p>
 
-<hr />
-</h1><h2>📜 <strong>Certifications</strong></h2><h1>
+---
+
+## Signature Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Awesome Portfolio** | A modern portfolio with animations, SEO, and dark/light mode toggle. | React, Next.js, Tailwind, Framer Motion | [GitHub](https://github.com/dev-amansapkota/your-portfolio) \| [Live](https://your-portfolio.vercel.app) |
+| **Data Dashboard** | Real-time analytics platform with interactive charts and secure APIs. | Next.js, Chart.js, MongoDB, Vercel | [GitHub](https://github.com/dev-amansapkota/dashboard-app) \| [Live](https://dashboard-app.vercel.app) |
+| **AI Chatbot** | Intelligent chatbot with NLP for automated customer support. | Node.js, Express, TensorFlow.js, Dialogflow | [GitHub](https://github.com/dev-amansapkota/chatbot-node) \| [Live](https://chatbot-node.vercel.app) |
+| **E-Commerce Platform** | Scalable e-commerce app with payment integration and admin dashboard. | Next.js, Stripe, PostgreSQL, Prisma | [GitHub](https://github.com/dev-amansapkota/ecommerce-app) \| [Live](https://ecommerce-app.vercel.app) |
+
+---
+
+## Open-Source Impact
+
+- **React Query**: Contributed 10+ pull requests, enhancing caching and documentation.  
+- **TypeScript Guide**: Authored a [beginner-friendly guide](https://github.com/dev-amansapkota/typescript-guide) with 1,000+ stars.  
+- **Mentorship**: Guided 20+ developers in hackathons and open-source contributions.  
+- **Community Leadership**: Organized 5+ tech meetups to foster collaboration.
+
+---
+
+## Impact Metrics
+
 <p align="center">
-  <img alt="AWS Certified Developer" src="https://img.shields.io/badge/AWS%20Certified%20Developer-FF9900?style=flat-square&amp;logo=amazonaws" />
-  <img alt="PSM I" src="https://img.shields.io/badge/Professional%20Scrum%20Master-PSM%20I-007FFF?style=flat-square&amp;logo=scrumalliance" />
-  <img alt="Google Cloud Associate" src="https://img.shields.io/badge/Google%20Cloud%20Associate-4285F4?style=flat-square&amp;logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-50%2B-1E90FF?style=flat-square" alt="Pull Requests" />
+  <img src="https://img.shields.io/badge/GitHub%20Stars-1000%2B-FF5733?style=flat-square" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Mentees%20Guided-20%2B-00FF7F?style=flat-square" alt="Mentees Guided" />
 </p>
 
-<hr />
-</h1><h2>📂 <strong>Featured Projects</strong></h2><h1>
-<table>
-<thead>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Links</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>🚀 <strong>Awesome Portfolio</strong></td>
-<td>A modern, responsive portfolio with animations and dark/light mode toggle.</td>
-<td>React, Next.js, Tailwind, Framer Motion</td>
-<td><a href="https://github.com/dev-amansapkota/your-portfolio">GitHub</a> | <a href="https://your-portfolio.vercel.app/">Live</a></td>
-</tr>
-<tr>
-<td>📊 <strong>Data Dashboard</strong></td>
-<td>Real-time data visualization app with interactive charts and analytics.</td>
-<td>Next.js, Chart.js, MongoDB, Vercel</td>
-<td><a href="https://github.com/dev-amansapkota/dashboard-app">GitHub</a> | <a href="https://dashboard-app.vercel.app/">Live</a></td>
-</tr>
-<tr>
-<td>🤖 <strong>AI Chatbot</strong></td>
-<td>Intelligent customer support chatbot with NLP capabilities.</td>
-<td>Node.js, Express, TensorFlow.js, Dialogflow</td>
-<td><a href="https://github.com/dev-amansapkota/chatbot-node">GitHub</a> | <a href="https://chatbot-node.vercel.app/">Live</a></td>
-</tr>
-<tr>
-<td>🌐 <strong>E-Commerce Platform</strong></td>
-<td>Full-stack e-commerce app with secure payment integration.</td>
-<td>Next.js, Stripe, PostgreSQL, Prisma</td>
-<td><a href="https://github.com/dev-amansapkota/ecommerce-app">GitHub</a> | <a href="https://ecommerce-app.vercel.app/">Live</a></td>
-</tr>
-</tbody></table>
-<hr />
-</h1><h2>📝 <strong>Latest Blog Posts</strong></h2><h1>
+---
+
+## Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-<ul>
-<li><a href="https://dev.to/amansapkota/mastering-nextjs-2025">Mastering Next.js: Building Scalable Apps in 2025</a></li>
-<li><a href="https://dev.to/amansapkota/why-typescript-2025">TypeScript: Why It’s a Must for Modern JavaScript Devs</a></li>
-<li><a href="https://dev.to/amansapkota/docker-aws-guide">Docker &amp; AWS: A Practical Guide to Deployment</a></li>
-</ul>
+- [Scaling Next.js Apps: Best Practices for 2025](https://dev.to/amansapkota/scaling-nextjs-2025)
+- [TypeScript: Transforming JavaScript Development](https://dev.to/amansapkota/typescript-transform-2025)
+- [Mastering CI/CD with Docker & AWS](https://dev.to/amansapkota/cicd-docker-aws)
 <!-- BLOG-POST-LIST:END -->
 
-<p>🔗 Explore more on my <a href="https://dev.to/amansapkota">Dev.to</a> blog!</p>
-<hr />
-</h1><h2>🌍 <strong>Community Contributions</strong></h2><h1>
-<ul>
-<li>🛠️ Contributor to <strong><a href="https://github.com/tannerlinsley/react-query">React Query</a></strong> with bug fixes and enhanced documentation.  </li>
-<li>📖 Authored a <strong><a href="https://github.com/dev-amansapkota/typescript-guide">TypeScript Guide for Beginners</a></strong> to simplify learning.  </li>
-<li>💡 Mentor at <strong>Hackathons</strong>, <strong>CodeNewbie</strong>, and local coding bootcamps.  </li>
-<li>🌟 Organizer of <strong>Tech Meetups</strong> in my community to foster collaboration.</li>
-</ul>
-<hr />
-</h1><h2>📡 <strong>Tech Radar</strong></h2><h1>
+🔗 Explore more on my [Dev.to](https://dev.to/amansapkota) blog!
+
+---
+
+## Tech Philosophy
+
+- **Code Excellence**: Write clean, maintainable, and well-documented code.  
+- **Scalable Design**: Build systems that grow seamlessly with demand.  
+- **Collaborative Innovation**: Foster inclusive teamwork and knowledge sharing.  
+- **Lifelong Learning**: Embrace emerging technologies to stay at the forefront.
+
+---
+
+## Quotes I Live By
+
+> *"Simplicity is the ultimate sophistication."* – Leonardo da Vinci  
+> *"Good code is its own best documentation."* – Steve McConnell  
+> *"The best way to predict the future is to invent it."* – Alan Kay  
+
+---
+
+## Let’s Build the Future Together!
+
 <p align="center">
-  <img alt="Tech Radar" src="https://img.shields.io/badge/Currently%20Exploring-Web3%20%7C%20AI%20%7C%20Serverless-FF2D55?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dev-amansapkota&style=flat-square&color=1E90FF" alt="Profile Visitors" />
 </p>
 
-<ul>
-<li><strong>Adopting</strong>: Web3 (Solidity, Ethereum), AI/ML integrations (TensorFlow, PyTorch).  </li>
-<li><strong>Experimenting</strong>: Serverless architectures, GraphQL Federation, Rust.  </li>
-<li><strong>Watching</strong>: Quantum computing, AR/VR for web development.</li>
-</ul>
-<hr />
-</h1><h2>🧠 <strong>Quotes I Live By</strong></h2><h1>
-<blockquote>
-<p><em>"First, solve the problem. Then, write the code."</em> – John Johnson<br /><em>"Good code is its own best documentation."</em> – Steve McConnell<br /><em>"The best way to predict the future is to invent it."</em> – Alan Kay  </p>
-</blockquote>
-<hr />
-</h1><h2>📬 <strong>Let’s Build Something Epic!</strong></h2><h1>
+Thank you for visiting my profile! I’m passionate about collaborating on innovative projects, sharing insights, and driving technological advancement. Reach out to create something extraordinary!
+
 <p align="center">
-  <img alt="Profile Visitors" src="https://komarev.com/ghpvc/?username=dev-amansapkota&amp;style=for-the-badge&amp;color=00C4FF" />
+  <a href="https://www.linkedin.com/in/aman-sapkota-75165a24a/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sponsors/dev-amansapkota"><img src="https://img.shields.io/badge/Sponsor-FF69B4?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor" /></a>
+  <a href="https://twitter.com/amansapkota14"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
-<p>🧡 Thanks for visiting my profile! I’m excited to connect, collaborate, or discuss the latest in tech. Reach out and let’s create something extraordinary together!</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-sapkota-75165a24a/"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="https://github.com/sponsors/dev-amansapkota"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-FF69B4?style=for-the-badge&amp;logo=github-sponsors&amp;logoColor=white" /></a>
-  <a href="https://twitter.com/amansapkota14"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" /></a></p></h1>
+  <img src="https://github.com/dev-amansapkota/dev-amansapkota/workflows/CI/CD%20Pipeline/badge.svg" alt="Workflow Status" />
+</p>
